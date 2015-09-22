@@ -1,0 +1,2 @@
+http://www.byki.com/lists/german/greg%27s-german-nouns-part-1.html
+http://bykiweb.byki.com:8080/bykiweb2/flashcards/ajax/game/list/getListByIId?listIId=4451453000000208459

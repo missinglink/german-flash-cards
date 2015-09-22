@@ -1,0 +1,21 @@
+{
+  "name": "german-flash-cards",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.0.0-rc1",
+    "angular": "1.0.8",
+    "font-awesome": "~4.x"
+  },
+  "resolutions": {
+    "angular": "1.0.8",
+    "font-awesome": "~4.3.x"
+  }
+}
