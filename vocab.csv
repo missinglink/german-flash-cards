@@ -1,0 +1,107 @@
+type,subtype,gender,german,english,example
+verb,,,entdecken,to discover,ich habe entdeckt
+verb,,,gucken,to look,
+verb,,,kratzen,to scratch,
+verb,,,etwas erkunden,to explore something,
+verb,,,riechen,to smell,ich habe gerochen
+phrase,,,das riecht nach...,that smells of...,
+verb,,,vorstellen,to introduce,ich stelle mich/meinen Freund vor
+verb,,,flüstern,to whisper,
+verb,,,kotzen,to vomit,
+verb,,,zählen,to count,
+verb,,,bezahlen,to pay,ich habe bezahlt
+verb,,,füttern,to feed,
+verb,separable,,verbringen,to spend time,ich habe verbracht
+verb,separable,,passieren,to happen,was ist passiert
+verb,separable,,bleiben,to stay,ich bin geblieben
+verb,separable,,anbieten,to offer,ich habe angeboten
+verb,separable,,einziehen,to move in,ich bin eingezogen
+verb,separable,,ausziehen,to move out,ich bin ausgezogen
+verb,separable,,ankommen,to arrive,ich bin angekommen
+verb,separable,,auspacken,to unpack,
+verb,separable,,einladen,to invite,ich habe eingeladen
+verb,separable,,anmachen,to turn on,
+verb,separable,,ausmachen,to turn off,
+verb,separable,,vorbereiten,to prepare,ich habe vorbereitet
+verb,separable,,kennenlernen,to get to know,
+verb,,,zeichnen,to draw,
+verb,,,drucken,to print,
+verb,,,drücken,to push or press,
+verb,separable,,ausdrücken,to express,
+verb,,,verlieben,to fall in love with,
+verb,,,entspannen,to relax,
+verb,,,freuen,to look forward to,
+verb,,,erinnern,to remember,
+verb,,,ärgern,to be annoyed about,
+verb,,,fühlen,to feel,
+verb,,,tun,to do,
+verb,,,entwickeln,to develop,ich habe entwickelt
+verb,separable,,vorstellen,to introduce,
+verb,separable,,aufhören,to finish / stop,du musst aufhören zu rauchen
+verb,separable,,anhalten,to stop (moving),der Zug ist angehalten
+noun,,die,die Haut,skin,
+noun,,die,die Süßigkeit(en),sweet(s),
+noun,,die,die Ruhe,the quiet,
+noun,,die,die Stille,the silence,
+noun,,die,die Sache(n),thing(s),
+noun,,die,die Nachbarin(nen),the female neighbour(s),
+noun,,die,die Zeichnung(en),the drawing,
+noun,,die,die Kindheit(en),childhood(s),
+noun,,die,die Entwicklung(en),development(s),
+noun,,die,die Prosa,prose,
+noun,,der,der Manager,manager,
+noun,,der,der Schleim,grease/slime,
+noun,,der,der Ursprung,origin,
+noun,,der,der Himmel,sky/heaven,
+noun,,der,der Nachbar(n),the neighbour(s),
+noun,,der,der Typ(en),the guy(s),ich habe einen Typen kennengelernt
+noun,,der,der Fehler(-),mistake,
+noun,,der,der Schatten,shade / shadow,
+noun,,der,der(die) Redakteur(in),editor,
+noun,,das,das Teleskop(e),telescope(s),
+noun,,das,das Fahrzeug(e),vehicle(s),
+noun,,das,das Gürteltier(e),armidillo(s),
+noun,,das,das Stinktier(e),skunk(s),
+noun,,das,das Fernglas (die Ferngläser),binoculars,
+noun,,das,das Lamm (die Lämme),lamb(s),
+noun,,das,das Angebot(e),the offer,
+noun,,das,das Gewürz(e),spice(s),
+noun,,das,das Kraut (die Kräuter),herb(s),
+noun,,das,das Gedicht(e),poem,
+adjective,,,glücklich,happy,
+adjective,,,verschieden,various / different,
+adjective,,,ursprünglich,original(ly),
+adjective,,,hässlich,ugly,
+adjective,,,beängstigend,scary,
+adjective,,,ruhig,quiet,
+adjective,,,komisch,funny (odd),
+adjective,,,witzig,funny (haha),
+adjective,,,verkatert,hung over,
+adjective,,,traurig,sad,
+phrase,,,unbedingt,absolutely,
+phrase,,,Ich + verb + (sehr) gern,I (really) like _____ing,ich singe sehr gern
+phrase,,,Ich habe eine Leidenschaft für_______,I have a passion for ________,
+phrase,,,Es gibt + accusative,there is/there are,gibt einen großen Park in Friederichshain
+phrase,,,Noch nicht,not yet,
+phrase,,,Nach,after / to (a town/country/ area with a proper noun),
+phrase,,,Zu,to (a common noun eg: Ich gehe zu dem Park/ zur Arbeit),
+phrase,,,Das sieht gut aus!,that looks good!,
+phrase,,,Ich habe Lust auf…,I feel like…,
+phrase,,,deshalb / deswegen,therefore,
+,,,Ich habe Angst,I am scared,
+,,,Ich hatte Angst,I was scared,
+,,,Einen Ausflug machen,to take a trip / excursion,wir haben einen schönen Ausflug zum See gemacht
+,,,Mit dem……,by (vehicle),Wir sind mit dem Bus/Zug/Auto/Schiff/Boot gefahren
+,,,Nach Hause,(go) home,
+,,,Zu Hause,at home,
+,,,Es tut weh,it hurts,Es hat weh getan
+,,,Freut mich,it’s a pleasure (when you meet someone),
+,,,sogar,even,ich habe sogar die Wohnung geputzt
+,,,bei mir/dir etc.,at my / your etc. place,
+,,,während,while / during,
+,,,immer noch,still,
+,,,vor Kurzem,a little while ago,
+,,,vor (drei Jahren / einer Woche),(three years / one week) ago,
+,,,besonders,especially / particularly,
+,,,stolz auf + accusative,proud of,ich bin sehr stolz auf meinen Bruder
+,,,einander,each other,sie sind in einander verliebt
